@@ -1,2 +1,4 @@
 # Empofi
-Empofi: A crypto initiative for financial inclusion and microtransactions. This repository houses our token contract and logo, promoting global economic empowerment.
+Empofi: Empowering minorities through blockchain technology. This repository houses our token contract and logo and any other relevant files.
+
+Empofi contract address	- 0xd99A3c3727E9d80722a7B3A62388e84Fa902E275
